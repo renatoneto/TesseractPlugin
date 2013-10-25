@@ -6,7 +6,6 @@
       version="0.1.0">
     <name>TesseractPlugin</name>
     <description>Tesseract plugin for phonegap</description>
-	<author>Alexander Bach</author>
     <license>Apache 2.0 License</license>
     <keywords>phonegap,tesseract, plugin</keywords>
  
